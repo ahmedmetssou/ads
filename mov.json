@@ -8,10 +8,11 @@
                 "api_key": "7btcxqm7s7s7fjure19zh8s7",
                 "envato_code" : "xxxxxx",
                 
-                "FBrewardsAds": "",
-                "facebook_banner":"xxxxxxxx",
-                "fbinter":"xxxxxxxxxx",
-                "fbnative":"xxxxxxxxxxx",
+             
+             "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+                "facebook_banner":"IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+                "fbinter":"IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+                "fbnative":"VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782",
                 
                 "unityGameID":"xxxx", 
                 "unityrewardId":"video",
