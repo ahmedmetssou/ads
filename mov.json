@@ -3,10 +3,10 @@
         {
                 "Package_name": "com.test.saver",
                 
-                "term_url": "http://apmovann.com/movies/terms/",
-                "server_url": "http://apmovann.com/movies/rest-api/",
-                "api_key": "w7jpp9zb1yq18xy3ef4ip6rk",
-                "envato_code" : "xxxxxx",
+                "term_url": "http://apmovann.com/oxo/terms/",
+                "server_url": "http://apmovann.com/oxo/rest-api/",
+                "api_key": "n2k2pdcnh6jcjhfuhpn0ce2q",
+                "envato_code" : "c5a7d2db-b8d7-43d7-b2bd-0e19a5fb04bf",
                 
              
              "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
