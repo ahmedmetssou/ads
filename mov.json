@@ -1,34 +1,38 @@
 {
-    "data": 
-        {
-                "Package_name": "com.oxoo.spagreen",
-                
-                "term_url": "http://apmovann.com/oxo/terms/",
-                "server_url": "http://apmovann.com/oxo/rest-api/",
-                "api_key": "n2k2pdcnh6jcjhfuhpn0ce2q",
-                "envato_code" : "c5a7d2db-b8d7-43d7-b2bd-0e19a5fb04bf",
-                
-             
-             "FBrewardsAds": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-                "facebook_banner":"IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-                "fbinter":"IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-                "fbnative":"VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782",
-                
-                "unityGameID":"xxxx", 
-                "unityrewardId":"video",
-                "unitybanner":"bannerOxoo",
-                "unityinter":"interOxoo",
-
-                "startapp_id":"XXXXXXXXXXX",
-
-                "admob_app_id":"ca-app-pub-XXXXXXXXXXX~XXXXXXXXXXX",
-                "developerId":"pub-XXXXXXXXXXX",
-                "admob_banner":"ca-app-pub-XXXXXXXXXXX/XXXXXXXXXXX",
-                "admobnative":"ca-app-pub-XXXXXXXXXXX/XXXXXXXXXXX",
-                "admobinter":"ca-app-pub-XXXXXXXXXXX/XXXXXXXXXXX"
-                
-               
-        }
-       
- 
+    "status":"ok",
+    "server":"https://streamaaa.000webhostapp.com/admin_panel",
+    "ads":{
+        "id":1,
+        "ad_status":"on",
+        "ad_type":"admob",
+        "activate_ironsource_banner": true,
+        "activate_ironsource_interstitial": true,
+        "ironsource_app_key": "1453333c1",
+        "admob_publisher_id":"pub-3940256099942544",
+        "admob_app_id":"ca-app-pub-3940256099942544~3347511713-RIDOUX",
+        "admob_banner_unit_id":"ca-app-pub-3940256099942544/6300978111",
+        "admob_interstitial_unit_id":"ca-app-pub-3940256099942544/1033173712",
+        "admob_native_unit_id":"ca-app-pub-3940256099942544/2247696110",
+        "admob_app_open_ad_unit_id":"ca-app-pub-3940256099942544/3419835294",
+        "fan_banner_unit_id":0,
+        "fan_interstitial_unit_id":0,
+        "fan_native_unit_id":0,
+        "startapp_app_id":0,
+        "unity_game_id":0,
+        "unity_banner_placement_id":"banner",
+        "unity_interstitial_placement_id":"video",
+        "applovin_banner_ad_unit_id":0,
+        "applovin_interstitial_ad_unit_id":0,
+        "mopub_banner_ad_unit_id":0,
+        "mopub_interstitial_ad_unit_id":0,
+        "interstitial_ad_interval":3,
+        "native_ad_interval":20,
+        "native_ad_index":6,
+        "date_time":"2021-10-08 12:44:04",
+        "test_mode":1,
+        "youtube_api_key":0,
+        "fcm_notification_topic":"the_stream_topic",
+        "onesignal_app_id":0,
+        "more_apps_url":"https://play.google.com/store/apps/developer?id=Solodroid"
+    }
 }
