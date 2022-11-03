@@ -6,7 +6,7 @@
  "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"unity",
+        "ad_type":"ironsource",
         "activate_ironsource_banner": true,
         "activate_ironsource_interstitial": true,
         "ironsource_app_key": "172561b45",
