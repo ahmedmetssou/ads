@@ -1,6 +1,6 @@
 {
     "status":"ok",
-    "server":"https://ytvapp.online/ytv/app/",
+    "server":"https://ytvapp.online/ytv/app/dashboard/",
     "ads":{
         "id":1,
         "ad_status":"off",
