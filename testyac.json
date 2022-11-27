@@ -32,7 +32,7 @@
     "test_mode": 0,
     "youtube_api_key": 0,
     "fcm_notification_topic": "the_stream_topic",
-    "onesignal_app_id": "01049022-20ea-4b-a0da-58d52d4aa3fe",
+    "onesignal_app_id": "cc25036b-8f24-4e7b-878f-02128b69c29d",
     "more_apps_url": "https://play.google.com/store/apps/developer?id=Diazzke"
   }
 }
