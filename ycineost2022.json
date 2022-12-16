@@ -1,19 +1,19 @@
 {
     "status":"ok",
-    "server":"https://ytvapp.online/ostoratvnew/app/",
+    "server":"https://yacinetv.link/nulled/thestreamcodee",
     "ads":{
         "id":1,
-        "ad_status":"off",
+        "ad_status":"on",
         "ad_type":"admob",
         "activate_ironsource_banner": true,
         "activate_ironsource_interstitial": true,
         "ironsource_app_key": "172561b45",
-        "admob_publisher_id":"pub-9562629104668263",
-        "admob_app_id":"ca-app-pub-9562629104668263~7501344867",
-        "admob_banner_unit_id":"ca-app-pub-3",
-        "admob_interstitial_unit_id":"ca-app-pub-9562629104668263/2320260248",
-        "admob_native_unit_id":"ca-app-pub-9562629104668263/6490449863",
-        "admob_app_open_ad_unit_id":"ca-app-pub-9562629104668263/6235793836",
+        "admob_publisher_id":"pub-5029214262988859",
+        "admob_app_id":"ca-app-pub-5029214262988859~3985152557",
+        "admob_banner_unit_id":"ca-app-pub-5029214262988859/8712661200",
+        "admob_interstitial_unit_id":"ca-app-pub-5029214262988859/5106662535",
+        "admob_native_unit_id":"ca-app-pub-5029214262988859/8499112632",
+        "admob_app_open_ad_unit_id":"ca-app-pub-5029214262988859/3246785959",
         "fan_banner_unit_id":0,
         "fan_interstitial_unit_id":0,
         "fan_native_unit_id":0,
@@ -21,8 +21,8 @@
         "unity_game_id":4691110,
         "unity_banner_placement_id":"Banner_Andoroid",
         "unity_interstitial_placement_id":"Interstitial_Android",
-        "applovin_banner_ad_unit_id":"5s",
-        "applovin_interstitial_ad_unit_id":"5vv",
+        "applovin_banner_ad_unit_id":"02e607763cac8a75",
+        "applovin_interstitial_ad_unit_id":"135537404766df19",
         "mopub_banner_ad_unit_id":0,
         "mopub_interstitial_ad_unit_id":0,
         "interstitial_ad_interval":1,
@@ -33,6 +33,6 @@
         "youtube_api_key":0,
         "fcm_notification_topic":"the_stream_topic",
         "onesignal_app_id":"01049022-20ea-4b83-a0da-58d52d4aa3fe",
-        "more_apps_url":"https://play.google.com/store/apps/developer?id=Diazzke"  
+        "more_apps_url":"https://play.google.com/store/apps/developer?id=Diazzke"
     }
 }
