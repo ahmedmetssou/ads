@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "server": "https://yac",
+  "server": "https://streamaaa.000webhostapp.com/admin_panel",
   "ads": {
     "id": 1,
-    "ad_status": "on",
+    "ad_status": "off",
     "ad_type": "admob",
     "activate_ironsource_banner": false,
     "activate_ironsource_interstitial": false,
-    "ironsource_app_key": "178677345",
+    "ironsource_app_key": "jj",
     "admob_publisher_id": "pub-6085155985153056",
     "admob_app_id": "ca-app-pub-6085155985153056~9017248696",
     "admob_banner_unit_id": "ca-app-pub-6085155985153056/2943822604",
