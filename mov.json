@@ -4,7 +4,7 @@
     "ads":{
         "id":1,
         "ad_status":"on",
-        "ad_type":"admob",
+        "ad_type":"unity",
         "activate_ironsource_banner": true,
         "activate_ironsource_interstitial": true,
         "ironsource_app_key": "172561b45",
@@ -18,7 +18,7 @@
         "fan_interstitial_unit_id":0,
         "fan_native_unit_id":0,
         "startapp_app_id":0,
-        "unity_game_id":4691110,
+        "unity_game_id":5002853,
         "unity_banner_placement_id":"Banner_Andoroid",
         "unity_interstitial_placement_id":"Interstitial_Android",
         "applovin_banner_ad_unit_id":"5s",
